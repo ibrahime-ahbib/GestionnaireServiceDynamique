@@ -1,0 +1,10 @@
+
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(ó¸ì‡
+N
+java:S1481!"3Remove this unused "extendsService" local variable.(”£Îúÿÿÿÿ
+j
+java:S1215N"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+1
+java:S1643?"Use a StringBuilder instead.(Öã–:

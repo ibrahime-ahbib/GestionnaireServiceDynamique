@@ -1,0 +1,30 @@
+
+h
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
+]
+java:S2479 ":Remove the non-escaped \u00A0 character from this literal.(”‡‚¢ÿÿÿÿÿ8Œ‰ÅÉö/
+X
+java:S2479¤":Remove the non-escaped \u00A0 character from this literal.(‰Ò8‰ÅÉö/
+]
+java:S2479²":Remove the non-escaped \u00A0 character from this literal.(â°¯şÿÿÿÿ8‰ÅÉö/
+]
+java:S2479·":Remove the non-escaped \u00A0 character from this literal.(ö—ä”üÿÿÿÿ8‘‰ÅÉö/
+]
+java:S2479Õ":Remove the non-escaped \u00A0 character from this literal.(ö—ä”üÿÿÿÿ8”‰ÅÉö/
+f
+java:S1874æ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
+I
+java:S1113æ"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ò‹¦Æö/
+P
+java:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ”Ã
+f
+java:S2259}"P"NullPointerException" will be thrown when invoking method "miseAJourService()".(˜Öÿ¼
+g
+java:S2259y"L"NullPointerException" will be thrown when invoking method "ajoutService()".(Ì÷Ïšüÿÿÿÿ
+g
+java:S2259"P"NullPointerException" will be thrown when invoking method "supprimerService()".(àÈòõ
+n
+java:S2259…"R"NullPointerException" will be thrown when invoking method "modifierServeurFTP()".(É¡’µüÿÿÿÿ

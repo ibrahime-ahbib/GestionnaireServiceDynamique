@@ -1,0 +1,9 @@
+
+m	java:S116"XRename this field "listen_socket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝüÐô
+V
+java:S1117";Rename "service" which hides the field declared at line 13.(Ï…Àòÿÿÿÿÿ
+e
+java:S1874+"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
+H
+java:S1113+"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+C	java:S108,")Either remove or fill this block of code.(Œúž›ýÿÿÿÿ

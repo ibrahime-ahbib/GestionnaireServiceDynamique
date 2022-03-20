@@ -1,0 +1,11 @@
+
+h	java:S116"TRename this field "FTPServer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¡×s
+F
+java:S2160"+Override the "equals" method in this class.(€³âıÿÿÿÿ
+j
+java:S1215#"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+Q
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€÷Ôúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Â—ü
